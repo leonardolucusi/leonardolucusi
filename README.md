@@ -1,4 +1,4 @@
-### Saudações, eu sou Leonardo Lucusi, desenvolvedor front end!
+### Saudações, eu sou Leonardo Lucusi, desenvolvedor .NET!
 
 <div align="center">
   <a href="https://github.com/leonardolucusi">
