@@ -1,4 +1,4 @@
-### Saudações, eu sou Leonardo Lucusi, desenvolvedor .NET!
+### Hi! I'm Leo a .NET Software Engineer & Game Developer (Unity3D / C#)
 
 <div align="center">
   <a href="https://github.com/leonardolucusi">
