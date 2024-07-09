@@ -1,4 +1,4 @@
-### Hi! I'm Leo a .NET Software Engineer & Game Developer (Unity3D / C#)
+### Engenheiro de Software .NET & Desenvolvedor de Jogos ( Unity3D / C# ) - Júnior
 
 <div align="center">
   <a href="https://github.com/leonardolucusi">
