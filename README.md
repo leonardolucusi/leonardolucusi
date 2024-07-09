@@ -1,4 +1,4 @@
-### Engenheiro de Software .NET & Desenvolvedor de Jogos ( Unity3D / C# ) - Júnior
+### .NET Software Engineer and Game Developer (Unity 3D / C#) - Junior
 
 <div align="center">
   <a href="https://github.com/leonardolucusi">
