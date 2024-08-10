@@ -1,4 +1,7 @@
 ### .NET Software Engineer and Game Developer (Unity 3D / C#) - Junior
+<div>
+  Systems Analysis and Development student, focusing on software development using .NET and C#. Experience with game development in Unity 3D and software projects in microservices. Passionate about technology and always looking for new challenges and learning.
+</div>
 <div align="center">
   <a href="https://github.com/leonardolucusi">
 </div>
