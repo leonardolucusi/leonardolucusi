@@ -6,11 +6,9 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Leo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-![net-core](https://github.com/user-attachments/assets/d6f2cc47-801a-4836-9aa9-7316f44a2382)
+  <i class="devicon-dotnetcore-plain colored"></i>
+          
 </div>
 
   <hr>
