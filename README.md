@@ -1,4 +1,4 @@
-### .NET Software Engineer and Game Developer (Unity 3D / C#) - Junior
+### Junior .NET Developer
 <div>
   Systems Analysis and Development student, focusing on software development using .NET and C#. Experience in software development through personal projects, where I applied and improved my skills in .NET, C#, and Unity 3D. In my projects, I developed web applications and games, implementing software architecture concepts, design patterns, and API integration. These projects provided me with a solid foundation in software development, in addition to allowing me to experiment with new technologies and agile development practices.
 </div>
