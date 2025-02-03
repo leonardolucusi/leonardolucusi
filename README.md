@@ -16,5 +16,4 @@ I'm self-taught, flexible and always looking to acquire new knowledge and stay c
 <div> 
   <a href = "mailto:leonardolucusi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-lucusi-725766156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://leonardolucusi.github.io/ng-deploy" target="_blank">Visite meu Portfólio</a>
 </div>
