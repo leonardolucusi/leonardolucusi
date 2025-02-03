@@ -1,8 +1,8 @@
 ### .NET Developer
 <div>
- Hi, I'm Leonardo Lucusi, 25 years old, enthusiastic and passionate about technology and programming since I was 12.
-I'm a .NET developer, I'm working using agile methodologies and taking advantage of soft skills to improve my interpersonal connection, helping to improve the workflow in the workplace.
-I'm self-taught, flexible and always looking to acquire new knowledge and stay connected with the best practices and technologies in the market.
+🔭 Currently working: working with software development using the Microsoft .NET Framework (C#, ASP.NET, Entity Framework); Also on Game Development using UnityEngine;
+🌱 Currently learning: all possible about Microsoft .NET Framework and Unity Engine game development.
+📫 How to reach me: Discord: (_lucusi) - Linkedin: https://www.linkedin.com/in/leonardo-lucusi-725766156/ (almost always online, feel free to reach me out!)
 </div>
 <div align="center">
   <a href="https://github.com/leonardolucusi">
