@@ -1,6 +1,8 @@
-### Junior .NET Developer
+### .NET Developer
 <div>
-  Systems Analysis and Development student, focusing on software development using .NET and C#. Experience in software development through personal projects, where I applied and improved my skills in .NET, C#, and Unity 3D. In my projects, I developed web applications, implementing software architecture concepts, design patterns, and API integration. These projects provided me with a solid foundation in software development, in addition to allowing me to experiment with new technologies and agile development practices.
+ Hi, I'm Leonardo Lucusi, 25 years old, enthusiastic and passionate about technology and programming since I was 12.
+I'm a .NET developer, I'm working using agile methodologies and taking advantage of soft skills to improve my interpersonal connection, helping to improve the workflow in the workplace.
+I'm self-taught, flexible and always looking to acquire new knowledge and stay connected with the best practices and technologies in the market.
 </div>
 <div align="center">
   <a href="https://github.com/leonardolucusi">
