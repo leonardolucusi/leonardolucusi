@@ -1,6 +1,6 @@
 ## &nbsp; Welcome!
-- 🔭 Currently working: working with software development using the Microsoft .NET Framework (C#, ASP.NET, Entity Framework); Also on Game Development using UnityEngine, C++;
-- 🌱 Currently learning: all possible about Microsoft .NET Framework and C++ graphical engine development.
+- 🔭 Currently working: working with software development using the Microsoft .NET Framework (C#, ASP.NET, Entity Framework); Also on Game Development using Roblox Studio, Lua;
+- 🌱 Currently learning: all possible about Microsoft .NET Framework and roblox studio development.
 - 📫 How to reach me: Discord: (_lucusi) - Linkedin: https://www.linkedin.com/in/leonardo-lucusi-725766156/ *(almost always online, feel free to reach me out!)*
 
 <br><br>
